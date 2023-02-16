@@ -1,0 +1,2 @@
+# Tarea4_Tecnicas_Programacion
+Tarea 4 Curso_22_23_Tecnicas
