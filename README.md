@@ -62,10 +62,10 @@ Menor
 Bravo, lo ha encontrado
 
 ## 5. Ahora tengo que encontrarlo yo
-Esta vez, el ordenador debe adivinar un número elegido por el usuario. El usuario le indica si el número es mayor (+), menor (-) o si lo ha encontrado (=).
 
-Ejemplo de ejecución del algoritmo:
-Elija un número del 1 al 100, luego presione cualquier tecla.
+  Esta vez, el ordenador debe adivinar un número elegido por el usuario. El usuario le indica si el número es mayor (+), menor (-) o si lo ha encontrado (=).
+ Ejemplo de ejecución del algoritmo:
+ Elija un número del 1 al 100, luego presione cualquier tecla.
 a
 Pruebo con 45, ¿es mayor, menor o es el número (+/-/=)?
 -
