@@ -1,4 +1,4 @@
-/*El arte ASCII consiste en hacer un diseño usando solo caracteres. Una de las formas más primitivas 
+/* El arte ASCII consiste en hacer un diseño usando solo caracteres. Una de las formas más primitivas 
 de este arte son los emoticonos: los caracteres :-) dibujan una carita sonriente. Escriba un algoritmo 
 que muestre un rectángulo realizado en arte ASCII según los deseos del usuario.*/
 

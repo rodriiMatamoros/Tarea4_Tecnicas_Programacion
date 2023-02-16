@@ -1,4 +1,4 @@
-/*Dibujar una de las siguientes formas, según la elección del usuario:
+/* Dibujar una de las siguientes formas, según la elección del usuario:
 Ejemplo de ejecución:
 ¿tamaño?
 5
